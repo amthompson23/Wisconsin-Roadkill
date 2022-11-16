@@ -8,4 +8,7 @@ Welcome to my reports on Wisconsin Roadkill!
 
 Figures contains the graphs and maps created using this data.
 
-The Documentation Folder contains my code and .shp files used to create the maps. The .shp files were also obtained from the Wisconsin Department of Transportation.
+Code.ipynb is the actual code I used for the analysis.
+
+The Assets Folder contains  .shp files used to create the maps. The .shp files were also obtained from the Wisconsin Department of Transportation.
+
