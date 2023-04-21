@@ -1,0 +1,512 @@
+,CRSHDATE,CRSHTIME,LATDECDG,LONDECDG,ANMLTY01,ANMLTY07,countyname,year,Road
+64,2017-01-04,1711,43.627781,-87.7700041,Other Non Domesticated,,Sheboygan,2017,Interstate043
+172,2017-01-05,916,43.509651337,-89.57544777,Other Non Domesticated,,Columbia,2017,State Highway033
+479,2017-01-13,600,43.736433953,-90.79924497,Other Non Domesticated,,Monroe,2017,State Highway027
+563,2017-01-19,1941,45.798653182,-91.85046986,Other Non Domesticated,,Washburn,2017,US Highway053
+713,2017-01-10,652,43.618595123,-88.82434082,Other Non Domesticated,,Dodge,2017,LAKE EMILY RD - Dodge
+721,2017-01-21,2300,43.527430275,-87.99491082,Other Non Domesticated,,Ozaukee,2017,JAY RD - Ozaukee
+867,2017-01-28,1958,44.951752227,-90.98776987,Other Non Domesticated,,Chippewa,2017,State Highway029
+1117,2017-01-29,2135,43.399449176,-88.46805843,Other Non Domesticated,,Dodge,2017,ILLINOIS RD - Dodge
+1195,2017-02-02,1935,44.951906332,-90.72106306,Other Non Domesticated,,Clark,2017,State Highway029
+1461,2017-02-09,1854,42.932383836,-88.22871913,Other Non Domesticated,,Waukesha,2017,State Highway164
+1531,2017-02-11,2130,44.046768208,-90.41278643,Other Non Domesticated,,Monroe,2017,State Highway173
+1837,2017-02-16,2139,42.947460863,-88.11706204,Other Non Domesticated,,Waukesha,2017,Interstate043
+2158,2017-02-25,2336,43.590755096,-89.87653791,Other Non Domesticated,,Sauk,2017,County HighwayP
+2186,2017-02-26,2026,45.53137085,-91.90652552,Other Non Domesticated,,Barron,2017,State Highway048
+2579,2017-03-04,1752,44.031920441,-90.5124227,Other Non Domesticated,,Monroe,2017,Interstate094
+2911,2017-03-17,1814,43.014698532,-89.23591709,Other Non Domesticated,,Dane,2017,Interstate039
+3020,2017-03-19,1740,45.400892601,-91.78239316,Other Non Domesticated,,Barron,2017,County HighwayW
+3122,2017-03-27,46,43.570503582,-89.20607024,Other Non Domesticated,,Columbia,2017,State Highway033
+3128,2017-03-28,332,43.661030589,-88.51386821,Other Non Domesticated,,Fond du Lac,2017,County HighwayF
+3223,2017-03-13,814,43.014721877,-88.81555618,Other Non Domesticated,,Jefferson,2017,WINDSOR TER - Jefferson
+3673,2017-04-05,2335,44.311306384,-90.80419976,Other Non Domesticated,,Jackson,2017,State Highway054
+3680,2017-04-05,1057,44.490295831,-88.09193384,Other Non Domesticated,,Brown,2017,State Highway172
+3850,2017-04-13,510,45.871467954,-91.83033388,Other Non Domesticated,,Washburn,2017,US Highway053
+4043,2017-04-20,1841,45.721675293,-91.80610206,Other Non Domesticated,,Washburn,2017,State Highway253
+4047,2017-04-12,1350,43.039582911,-90.14293366,Other Non Domesticated,,Iowa,2017,State Highway023
+4192,2017-04-21,2009,42.940389653,-88.13161768,Other Non Domesticated,,Waukesha,2017,Interstate043
+4290,2017-04-14,1232,44.453020036,-87.9801053,Other Non Domesticated,,Brown,2017,State Highway172
+4349,2017-04-28,635,43.895244706,-89.48188579,Other Non Domesticated,,Marquette,2017,Interstate039
+4366,2017-04-16,1218,43.107244731,-88.47461088,Other Non Domesticated,,Waukesha,2017,State Highway016
+4497,2017-04-21,2358,42.678997007,-87.86098533,Other Non Domesticated,,Racine,2017,State Highway031
+4850,2017-05-07,1135,43.400256734,-87.92762793,Other Non Domesticated,,Ozaukee,2017,State Highway057
+4877,2017-05-09,923,45.083538179,-92.57327555,Other Non Domesticated,,St. Croix,2017,County HighwayA
+4890,2017-05-10,955,43.284626675,-90.30119516,Other Non Domesticated,,Richland,2017,County HighwayBA
+4891,2017-05-09,723,43.211398013,-88.06363905,Other Non Domesticated,,Washington,2017,WASAUKEE RD - Washington
+5284,2017-05-16,2052,44.770940433,-88.50708982,Other Non Domesticated,,Shawano,2017,HILLCREST DR - Shawano
+5485,2017-05-17,2226,43.282310809,-89.32470481,Other Non Domesticated,,Columbia,2017,US Highway051
+5486,2017-05-12,2145,43.899055655,-91.12852072,Other Non Domesticated,,La Crosse,2017,State Highway016
+5493,2017-05-18,1213,44.025790278,-89.6933318,Other Non Domesticated,,Adams,2017,State Highway021
+5595,2017-05-24,2230,43.695745389,-88.25236043,Other Non Domesticated,,Fond du Lac,2017,County HighwayB
+5803,2017-05-18,157,44.070002011,-91.52020237,Other Non Domesticated,,Trempealeau,2017,State Highway035
+5876,2017-05-28,2330,43.034509929,-88.17214112,Other Non Domesticated,,Waukesha,2017,Interstate094
+6585,2017-06-05,810,45.179137994,-87.8074721,Other Non Domesticated,,Marinette,2017,County HighwayG
+6723,2017-06-06,415,42.962030976,-89.09968604,Other Non Domesticated,,Dane,2017,Interstate039
+7020,2017-06-09,855,43.306841434,-89.06900303,Other Non Domesticated,,Columbia,2017,SCHAEFFER RD - Columbia
+7105,2017-06-02,1940,43.958099941,-88.12244529,Other Non Domesticated,,Calumet,2017,ORCHARD RD - Calumet
+7192,2017-06-14,955,45.007379961,-92.51947035,Other Non Domesticated,,St. Croix,2017,100TH AVE - St. Croix
+7429,2017-06-14,2355,44.410044529,-88.83207621,Other Non Domesticated,,Waupaca,2017,State Highway054
+7869,2017-06-26,1609,45.16291519,-90.97869002,Other Non Domesticated,,Chippewa,2017,State Highway064
+8196,2017-06-26,2223,42.734593897,-88.68433529,Other Non Domesticated,,Walworth,2017,County HighwayA
+8460,2017-07-02,145,42.686653129,-89.33975919,Other Non Domesticated,,Rock,2017,County HighwayB
+8552,2017-07-06,2051,43.807716212,-88.2813036,Other Non Domesticated,,Fond du Lac,2017,7 HILLS RD - Fond du Lac
+8658,2017-07-07,2232,44.207699485,-91.21631022,Other Non Domesticated,,Trempealeau,2017,County HighwayC
+8739,2017-07-10,2145,45.149155374,-89.64246247,Other Non Domesticated,,Lincoln,2017,US Highway051
+8935,2017-07-15,415,44.357915093,-88.70287105,Other Non Domesticated,,Outagamie,2017,State Highway015
+8961,2017-07-02,1130,43.74502023,-89.94098318,Other Non Domesticated,,Juneau,2017,Interstate090
+9366,2017-07-27,1530,44.541290761,-91.6587938,Other Non Domesticated,,Buffalo,2017,County HighwayH
+9379,2017-07-27,1836,44.645470793,-91.10504387,Other Non Domesticated,,Eau Claire,2017,County HighwayM
+9437,2017-07-21,421,45.177847505,-89.63192734,Other Non Domesticated,,Lincoln,2017,State Highway064
+9485,2017-07-18,1800,44.69759402,-91.94869782,Other Non Domesticated,,Dunn,2017,State Highway025
+9536,2017-07-20,1050,43.209303783,-89.28016683,Other Non Domesticated,,Dane,2017,EGRE RD - Dane
+9633,2017-08-01,2358,44.299964379,-90.12243469,Other Non Domesticated,,Wood,2017,State Highway080
+9685,2017-08-05,1322,43.096514597,-88.2376704,Other Non Domesticated,,Waukesha,2017,CHESTERWOOD LN - Waukesha
+9809,2017-08-03,800,43.961430486,-90.75598764,Other Non Domesticated,,Monroe,2017,County HighwayA
+9815,2017-08-05,1316,43.533054143,-89.44235729,Other Non Domesticated,,Columbia,2017,US Highway051
+9929,2017-08-15,2244,43.000765472,-90.65558877,Other Non Domesticated,,Grant,2017,US Highway061
+10028,2017-08-21,126,44.248003187,-88.46630089,Other Non Domesticated,,Outagamie,2017,Interstate041
+10092,2017-08-05,2100,44.459509211,-88.13477854,Other Non Domesticated,,Brown,2017,County HighwayG
+10141,2017-08-20,1420,44.942288143,-92.42989616,Other Non Domesticated,,St. Croix,2017,Interstate094
+10211,2017-08-25,1803,44.396324116,-88.15464624,Other Non Domesticated,,Brown,2017,Interstate041
+10232,2017-08-19,2050,43.06778801,-88.62544328,Other Non Domesticated,,Jefferson,2017,County HighwayB
+10330,2017-08-29,2231,44.498452551,-88.74715232,Other Non Domesticated,,Waupaca,2017,US Highway045
+10392,2017-08-31,2018,42.969560097,-90.04517065,Other Non Domesticated,,Iowa,2017,County HighwayYZ
+10609,2017-09-04,1955,43.355165593,-89.50899708,Other Non Domesticated,,Columbia,2017,County HighwayJ
+10636,2017-09-05,430,44.753125917,-92.68139093,Other Non Domesticated,,Pierce,2017,US Highway010
+10749,2017-09-06,2122,43.474398139,-87.82999291,Other Non Domesticated,,Ozaukee,2017,Interstate043
+11030,2017-09-07,2030,43.926465702,-91.26981853,Other Non Domesticated,,La Crosse,2017,County HighwayZN
+11268,2017-09-25,2050,43.687850955,-90.31814959,Other Non Domesticated,,Vernon,2017,LOVERS LN - Vernon
+11622,2017-09-27,2226,44.453546301,-90.16459708,Other Non Domesticated,,Wood,2017,State Highway073
+11699,2017-10-01,1951,44.635651479,-88.31271872,Other Non Domesticated,,Shawano,2017,State Highway055
+11709,2017-10-01,1920,44.329466931,-89.00349626,Other Non Domesticated,,Waupaca,2017,US Highway010
+11792,2017-10-04,635,42.987709878,-90.33475806,Other Non Domesticated,,Iowa,2017,State Highway080
+12133,2017-10-09,2224,45.054464481,-88.31382056,Other Non Domesticated,,Oconto,2017,County HighwayZ
+12400,2017-10-08,622,44.494886679,-91.30019117,Other Non Domesticated,,Trempealeau,2017,County HighwayO
+12548,2017-10-14,447,43.88346604,-88.58379997,Other Non Domesticated,,Fond du Lac,2017,Interstate041
+12627,2017-10-08,22,42.96751919,-90.09225781,Other Non Domesticated,,Iowa,2017,US Highway018
+12922,2017-10-01,211,44.943893046,-92.53066456,Other Non Domesticated,,St. Croix,2017,Interstate094
+13066,2017-10-22,1900,44.470730703,-88.59319776,Other Non Domesticated,,Outagamie,2017,State Highway076
+13402,2017-10-23,1915,44.766432769,-92.25691814,Other Non Domesticated,,Pierce,2017,County HighwayCC
+14676,2017-10-18,1910,43.574078275,-90.61026777,Other Non Domesticated,,Vernon,2017,State Highway082
+15404,2017-11-07,538,43.050156748,-88.29565548,Other Non Domesticated,,Waukesha,2017,Interstate094
+15582,2017-11-07,1949,43.429726958,-89.07510295,Other Non Domesticated,,Columbia,2017,County HighwayCD
+16323,2017-11-11,1515,44.819513104,-87.61987017,Other Non Domesticated,,Door,2017,County HighwayC
+16468,2017-11-12,745,44.039308988,-89.91512178,Other Non Domesticated,,Adams,2017,State Highway021
+16742,2017-11-14,1730,43.594160653,-89.93170877,Other Non Domesticated,,Sauk,2017,County HighwayH
+18225,2017-11-13,1533,43.193414881,-89.26427409,Other Non Domesticated,,Dane,2017,County HighwayC
+18342,2017-11-26,1740,44.620506181,-92.3960858,Other Non Domesticated,,Pierce,2017,County HighwayD
+18442,2017-11-18,2200,44.444277774,-91.77506828,Other Non Domesticated,,Buffalo,2017,State Highway037
+18847,2017-12-03,630,43.5748,-91.0371,Other Non Domesticated,,Vernon,2017,County HighwayO
+19136,2017-12-03,845,42.818591688,-89.73467087,Other Non Domesticated,,Green,2017,County HighwayJ
+19471,2017-12-12,1030,44.678170264,-91.44774944,Other Non Domesticated,,Eau Claire,2017,State Highway093
+19672,2017-12-17,1248,44.297624666,-88.3028485,Other Non Domesticated,,Outagamie,2017,Interstate041
+20154,2017-12-20,504,44.150850163,-87.80162146,Other Non Domesticated,,Manitowoc,2017,County HighwayT
+20347,2017-12-29,1530,43.221928538,-88.26172449,Other Non Domesticated,,Washington,2017,State Highway164
+20553,2017-12-19,2136,42.833757753,-87.91418977,Other Non Domesticated,,Racine,2017,State Highway038
+20653,2018-01-01,1115,43.891403633,-87.77146562,Other Non Domesticated,,Sheboygan,2018,Interstate043
+20702,2018-01-02,350,43.414096595,-87.89098364,Other Non Domesticated,,Ozaukee,2018,County HighwayB
+20785,2018-01-05,1728,42.915461507,-90.80773917,Other Non Domesticated,,Grant,2018,BADGER RD - Grant
+21789,2018-01-26,108,43.114698788,-89.28668024,Other Non Domesticated,,Dane,2018,Interstate039
+22352,2018-02-09,1957,43.575793933,-90.35889881,Other Non Domesticated,,Vernon,2018,WESTERN RD - Vernon
+22674,2018-02-16,1513,43.689735544,-90.09951264,Other Non Domesticated,,Juneau,2018,State Highway058
+22783,2018-02-13,1751,44.959201041,-92.24356823,Other Non Domesticated,,St. Croix,2018,US Highway012
+22839,2018-02-22,1516,43.733857348,-88.54838779,Other Non Domesticated,,Fond du Lac,2018,US Highway151
+22927,2018-02-22,1815,43.434499377,-87.84420813,Other Non Domesticated,,Ozaukee,2018,Interstate043
+22959,2018-02-26,15,45.006558558,-92.36784332,Other Non Domesticated,,St. Croix,2018,County HighwayE
+23333,2018-03-01,1952,43.692360732,-90.59797417,Other Non Domesticated,,Vernon,2018,State Highway131
+23498,2018-03-03,2245,43.586175187,-90.88924158,Other Non Domesticated,,Vernon,2018,US Highway014
+24230,2018-03-29,1825,45.144791987,-89.31104377,Other Non Domesticated,,Langlade,2018,State Highway064
+24567,2018-04-04,2220,45.429847228,-91.73494281,Other Non Domesticated,,Barron,2018,County HighwaySS
+25074,2018-04-21,1340,43.737579328,-88.43779893,Other Non Domesticated,,Fond du Lac,2018,US Highway045
+25263,2018-04-24,2012,44.170212943,-87.86197646,Other Non Domesticated,,Manitowoc,2018,County HighwayJ
+25329,2018-04-28,1007,42.524755993,-88.04495095,Other Non Domesticated,,Kenosha,2018,US Highway045
+25591,2018-04-29,945,46.530129027,-91.14662527,Other Non Domesticated,,Bayfield,2018,US Highway002
+25781,2018-05-07,300,43.449408121,-88.35672153,Other Non Domesticated,,Washington,2018,Interstate041
+25789,2018-05-06,915,43.235795792,-87.91975377,Other Non Domesticated,,Ozaukee,2018,Interstate043
+26289,2018-05-21,445,44.470724828,-88.51431681,Other Non Domesticated,,Outagamie,2018,State Highway054
+26327,2018-05-22,710,44.821127912,-87.41195525,Other Non Domesticated,,Door,2018,State Highway042
+27071,2018-05-29,2159,43.749405581,-89.48245239,Other Non Domesticated,,Marquette,2018,Interstate039
+27346,2018-05-14,545,43.91371386,-90.99907186,Other Non Domesticated,,La Crosse,2018,State Highway016
+27598,2018-06-03,906,43.922899073,-89.88683142,Other Non Domesticated,,Adams,2018,County HighwayF
+27809,2018-06-03,2001,43.422448265,-90.03590133,Other Non Domesticated,,Sauk,2018,State Highway023
+28158,2018-06-13,1007,45.537511883,-90.65089981,Other Non Domesticated,,Price,2018,US Highway008
+28213,2018-06-13,636,45.343161266,-92.65033496,Other Non Domesticated,,Polk,2018,State Highway035
+28783,2018-06-23,2100,44.797037079,-88.83139795,Other Non Domesticated,,Shawano,2018,State Highway029
+28922,2018-06-21,1408,45.205203051,-89.65985301,Other Non Domesticated,,Lincoln,2018,US Highway051
+29009,2018-06-27,1328,44.489706712,-88.45217423,Other Non Domesticated,,Outagamie,2018,State Highway047
+29222,2018-06-27,1015,44.913252564,-92.63309874,Other Non Domesticated,,St. Croix,2018,County HighwayU
+29327,2018-06-30,2130,43.423187137,-89.24451467,Other Non Domesticated,,Columbia,2018,County HighwayC
+29896,2018-07-11,1643,45.395511686,-86.87711698,Other Non Domesticated,,Door,2018,County HighwayW
+29938,2018-07-11,2045,44.602943219,-88.04938965,Other Non Domesticated,,Brown,2018,E DEERFIELD AVE - Brown
+29984,2018-07-16,2,44.125922061,-90.56285978,Other Non Domesticated,,Monroe,2018,US Highway012
+29995,2018-07-14,1540,44.856309936,-89.09057691,Other Non Domesticated,,Shawano,2018,SCHOOL HOUSE RD - Shawano
+30000,2018-07-14,549,43.421703913,-89.24453283,Other Non Domesticated,,Columbia,2018,County HighwayC
+30238,2018-07-07,5,43.934789579,-91.11961563,Other Non Domesticated,,La Crosse,2018,County HighwayM
+30311,2018-07-20,2110,44.555909035,-87.66466954,Other Non Domesticated,,Kewaunee,2018,State Highway054
+30399,2018-07-25,1456,44.958809173,-90.41733796,Other Non Domesticated,,Clark,2018,WILLOW RD - Clark
+30426,2018-07-26,843,45.179732237,-89.64758807,Other Non Domesticated,,Lincoln,2018,US Highway051
+30570,2018-07-31,430,43.571698449,-88.01258292,Other Non Domesticated,,Sheboygan,2018,ABBOTT DR - Sheboygan
+30668,2018-07-17,115,43.119413197,-88.04070527,Other Non Domesticated,,Milwaukee,2018,W SILVER SPRING DR - Milwaukee
+30696,2018-08-01,1116,44.548411195,-89.57128165,Other Non Domesticated,,Portage,2018,Interstate039
+30769,2018-08-02,2300,44.311353489,-88.676935,Other Non Domesticated,,Outagamie,2018,County HighwayT
+30854,2018-08-11,2215,42.519128074,-89.01884831,Other Non Domesticated,,Rock,2018,ROYCE AVE - Rock
+30873,2018-08-12,950,44.937219005,-91.11882481,Other Non Domesticated,,Chippewa,2018,State Highway029
+30880,2018-08-12,2205,42.572785492,-88.8442176,Other Non Domesticated,,Rock,2018,Interstate043
+31005,2018-08-19,55,43.253951782,-90.62957271,Other Non Domesticated,,Richland,2018,County HighwayF
+31020,2018-08-16,2330,43.71624981,-87.94093025,Other Non Domesticated,,Sheboygan,2018,State Highway057
+31079,2018-08-03,351,43.942373201,-91.06179429,Other Non Domesticated,,La Crosse,2018,State Highway108
+31128,2018-08-22,1945,43.665873955,-87.74010887,Other Non Domesticated,,Sheboygan,2018,County HighwayKK
+31135,2018-08-21,203,43.36821285,-88.11192036,Other Non Domesticated,,Washington,2018,County HighwayNN
+31194,2018-08-26,2040,45.748636195,-89.32998071,Other Non Domesticated,,Oneida,2018,State Highway017
+31299,2018-08-25,1540,44.234944704,-88.36306779,Other Non Domesticated,,Calumet,2018,S LAKE PARK RD (1) - Calumet
+31493,2018-09-04,1639,43.821676592,-87.77121906,Other Non Domesticated,,Sheboygan,2018,Interstate043
+31522,2018-09-07,415,42.567949005,-88.0690841,Other Non Domesticated,,Kenosha,2018,State Highway050
+31555,2018-09-07,2225,45.003410339,-90.26677704,Other Non Domesticated,,Marathon,2018,County HighwayA
+31602,2018-09-08,2020,43.251201007,-89.88023313,Other Non Domesticated,,Sauk,2018,County HighwayB
+31650,2018-09-08,1100,44.675376675,-87.55140733,Other Non Domesticated,,Door,2018,County HighwayX
+31905,2018-09-09,1230,43.583811595,-89.51589203,Other Non Domesticated,,Columbia,2018,State Highway127
+32038,2018-09-18,2127,45.042881419,-88.41518426,Other Non Domesticated,,Oconto,2018,State Highway032
+32169,2018-09-21,2225,45.058842809,-89.15332922,Other Non Domesticated,,Langlade,2018,US Highway045
+32366,2018-09-19,2147,43.913647419,-90.55377641,Other Non Domesticated,,Monroe,2018,INDIGO AVE - Monroe
+32884,2018-09-22,1940,42.582083277,-90.07714724,Other Non Domesticated,,Lafayette,2018,State Highway011
+33033,2018-10-03,908,44.987376908,-89.42069145,Other Non Domesticated,,Marathon,2018,County HighwayZ
+33217,2018-10-05,2048,45.1774604,-89.14550632,Other Non Domesticated,,Langlade,2018,US Highway045
+33272,2018-10-10,622,44.886780867,-88.0396838,Other Non Domesticated,,Oconto,2018,State Highway022
+33448,2018-10-13,120,42.702878587,-90.52642082,Other Non Domesticated,,Grant,2018,US Highway151
+33555,2018-10-09,2122,43.469518947,-88.24193003,Other Non Domesticated,,Washington,2018,KETTLE VIEW DR - Washington
+33606,2018-10-14,2034,44.133211715,-87.73147227,Other Non Domesticated,,Manitowoc,2018,County HighwayP
+33630,2018-10-15,1830,43.711326926,-87.84591207,Other Non Domesticated,,Sheboygan,2018,State Highway028
+34571,2018-10-08,2018,45.617434738,-89.49262349,Other Non Domesticated,,Oneida,2018,US Highway008
+34611,2018-10-24,2101,45.103851306,-88.16333711,Other Non Domesticated,,Oconto,2018,GOLDHORN RD - Oconto
+34612,2018-10-24,2101,45.10385131,-88.16333726,Other Non Domesticated,,Oconto,2018,GOLDHORN RD - Oconto
+34724,2018-10-22,1727,43.205806784,-88.74645111,Other Non Domesticated,,Dodge,2018,MARY KNOLL LN - Dodge
+35053,2018-10-26,659,43.866999949,-88.46335776,Other Non Domesticated,,Fond du Lac,2018,US Highway045
+35179,2018-10-13,1004,43.149432356,-89.4240921,Other Non Domesticated,,Dane,2018,County HighwayM
+36168,2018-11-01,456,43.16728,-91.12659,Other Non Domesticated,,Crawford,2018,County HighwayD
+36267,2018-11-04,2340,43.94777,-89.62785,Other Non Domesticated,,Adams,2018,County HighwayG
+36282,2018-11-03,1747,44.07878,-87.83366,Other Non Domesticated,,Manitowoc,2018,US Highway151
+36304,2018-11-03,626,44.89536,-88.20983,Other Non Domesticated,,Oconto,2018,State Highway022
+37030,2018-11-09,730,42.65918,-90.65262,Other Non Domesticated,,Grant,2018,US Highway061
+37045,2018-11-08,1730,43.62443,-90.87651,Other Non Domesticated,,Vernon,2018,US Highway014
+37245,2018-11-10,2100,44.75309,-88.46713,Other Non Domesticated,,Shawano,2018,OAKCREST DR - Shawano
+38257,2018-11-07,2040,43.4232,-88.38273,Other Non Domesticated,,Washington,2018,State Highway033
+39241,2018-11-26,510,44.34216,-90.4495,Other Non Domesticated,,Jackson,2018,State Highway054
+39428,2018-11-21,2015,42.53572,-90.38386,Other Non Domesticated,,Lafayette,2018,County HighwayW
+40010,2018-12-04,1910,43.10636,-90.3685,Other Non Domesticated,,Iowa,2018,State Highway080
+40144,2018-12-06,2202,42.7629,-88.42951,Other Non Domesticated,,Walworth,2018,Interstate043
+40408,2018-12-08,452,43.19987,-88.13122,Other Non Domesticated,,Washington,2018,Interstate041
+40459,2018-12-04,509,42.78207,-88.38956,Other Non Domesticated,,Walworth,2018,Interstate043
+40481,2018-12-16,1822,44.65618,-90.33695,Other Non Domesticated,,Clark,2018,County HighwayH
+40491,2018-12-16,959,45.76441,-89.57532,Other Non Domesticated,,Oneida,2018,State Highway047
+40594,2018-12-13,2140,43.38851,-89.46574,Other Non Domesticated,,Columbia,2018,Interstate039
+40863,2018-12-19,1630,42.77118,-88.16065,Other Non Domesticated,,Racine,2018,County HighwayK
+41270,2018-12-18,1503,45.32981,-89.6766,Other Non Domesticated,,Lincoln,2018,US Highway051
+41278,2018-12-25,721,45.1491,-89.7707,Other Non Domesticated,,Lincoln,2018,County HighwayZ
+41328,2018-12-24,2107,43.08601,-88.77498,Other Non Domesticated,,Jefferson,2018,Interstate094
+41623,2019-03-30,2345,45.2062,-90.35441,Other Non Domesticated,,Taylor,2019,County HighwayM
+41672,2019-04-15,2111,44.58224,-91.02516,Other Non Domesticated,,Jackson,2019,US Highway010
+41718,2019-02-21,2053,43.91624,-90.94641,Other Non Domesticated,,La Crosse,2019,State Highway016
+41935,2019-06-20,1747,43.89905,-91.07483,Other Non Domesticated,,La Crosse,2019,County HighwayC
+42037,2019-08-02,2115,42.98013,-89.07193,Other Non Domesticated,,Dane,2019,State Highway073
+42378,2019-10-13,1935,43.20124,-89.26383,Other Non Domesticated,,Dane,2019,County HighwayC
+42402,2019-10-16,1605,46.03221,-91.84021,Other Non Domesticated,,Washburn,2019,US Highway053
+42650,2019-12-11,1924,44.58177,-88.76082,Other Non Domesticated,,Waupaca,2019,US Highway045
+42777,2019-01-08,709,45.80543,-89.3197,Other Non Domesticated,,Oneida,2019,State Highway017
+42780,2019-01-05,726,45.72884,-89.33979,Other Non Domesticated,,Oneida,2019,State Highway017
+42824,2019-04-02,1020,42.51835,-88.97562,Other Non Domesticated,,Rock,2019,Interstate039
+42962,2019-05-22,2145,45.81534,-92.03274,Other Non Domesticated,,Burnett,2019,State Highway070
+43002,2019-05-30,1800,43.2211,-88.45833,Other Non Domesticated,,Dodge,2019,County HighwayP
+43023,2019-05-10,2141,42.66724,-90.41267,Other Non Domesticated,,Lafayette,2019,State Highway081
+43177,2019-07-13,2337,42.98191,-89.07192,Other Non Domesticated,,Dane,2019,State Highway073
+43203,2019-08-07,1336,44.80409,-88.89353,Other Non Domesticated,,Shawano,2019,State Highway029
+43209,2019-08-03,1636,42.70492,-89.48073,Other Non Domesticated,,Green,2019,County HighwayF
+43356,2019-07-09,235,43.97297,-88.11243,Other Non Domesticated,,Calumet,2019,State Highway032
+43453,2019-10-16,602,43.10564,-89.64845,Other Non Domesticated,,Dane,2019,County HighwayP
+43637,2019-11-27,1920,43.97636,-91.15803,Other Non Domesticated,,La Crosse,2019,County HighwayM
+43680,2019-11-12,740,43.87788,-90.73146,Other Non Domesticated,,Monroe,2019,State Highway071
+43751,2019-12-10,2036,43.08248,-89.07952,Other Non Domesticated,,Dane,2019,County HighwayBB
+43780,2019-10-31,956,45.48558,-89.69478,Other Non Domesticated,,Lincoln,2019,US Highway051
+43887,2019-01-02,1828,45.5496,-89.87246,Other Non Domesticated,,Lincoln,2019,US Highway008
+44787,2019-11-15,1900,44.78395,-88.6574,Other Non Domesticated,,Shawano,2019,State Highway029
+45071,2019-04-03,620,43.80474,-87.86344,Other Non Domesticated,,Sheboygan,2019,PLAYBIRD RD - Sheboygan
+45156,2019-04-22,1622,43.02773,-87.99369,Other Non Domesticated,,Milwaukee,2019,S 65TH ST - Milwaukee
+45177,2019-05-15,1025,46.36006,-91.7671,Other Non Domesticated,,Douglas,2019,County HighwayA
+45289,2019-04-14,500,42.56429,-89.93155,Other Non Domesticated,,Lafayette,2019,State Highway011
+45455,2019-05-12,2345,44.88669,-89.45768,Other Non Domesticated,,Marathon,2019,State Highway029
+45557,2019-08-18,1235,45.16524,-89.8376,Other Non Domesticated,,Lincoln,2019,State Highway064
+45626,2019-10-16,2006,44.0188,-88.52747,Other Non Domesticated,,Winnebago,2019,BOWEN ST - Winnebago
+45869,2019-09-03,9999,43.21,-90.35985,Other Non Domesticated,,Richland,2019,State Highway060
+46298,2019-03-19,1551,43.97503,-89.15616,Other Non Domesticated,,Green Lake,2019,County HighwayE
+46519,2019-06-07,502,44.28374,-91.0311,Other Non Domesticated,,Jackson,2019,County HighwayX
+46639,2019-05-19,2027,44.93686,-91.19307,Other Non Domesticated,,Chippewa,2019,State Highway029
+46645,2019-07-10,2305,43.69909,-88.52283,Other Non Domesticated,,Fond du Lac,2019,County HighwayD
+46687,2019-08-09,1723,43.0965,-88.28048,Other Non Domesticated,,Waukesha,2019,State Highway016
+47326,2019-03-23,1703,43.4234,-88.33597,Other Non Domesticated,,Washington,2019,Interstate041
+47603,2019-05-08,1835,43.39213,-88.19171,Other Non Domesticated,,Washington,2019,US Highway045
+47754,2019-05-26,2214,42.66785,-90.326,Other Non Domesticated,,Lafayette,2019,State Highway081
+47778,2019-07-01,607,43.83375,-87.93499,Other Non Domesticated,,Sheboygan,2019,County HighwayA
+47826,2019-06-25,11,44.50828,-87.70427,Other Non Domesticated,,Kewaunee,2019,County HighwayAB
+47873,2019-07-19,1652,43.05651,-89.3824,Other Non Domesticated,,Dane,2019,JOHN NOLEN DR - Dane
+47893,2019-07-29,1953,43.72318,-87.75616,Other Non Domesticated,,Sheboygan,2019,TAYLOR DR - Sheboygan
+47912,2019-08-11,315,43.69502,-87.76011,Other Non Domesticated,,Sheboygan,2019,Interstate043
+47934,2019-07-17,146,45.11169,-88.18214,Other Non Domesticated,,Oconto,2019,State Highway064
+48325,2019-10-23,640,43.88846,-90.97196,Other Non Domesticated,,La Crosse,2019,Interstate090
+48388,2019-12-16,1141,42.90892,-88.26293,Other Non Domesticated,,Waukesha,2019,HI LO DR - Waukesha
+48471,2019-12-30,1028,43.26266,-87.92003,Other Non Domesticated,,Ozaukee,2019,Interstate043
+48520,2019-12-28,2121,43.19451,-89.29336,Other Non Domesticated,,Dane,2019,State Highway019
+48770,2019-05-16,820,46.63424,-91.72127,Other Non Domesticated,,Douglas,2019,County HighwayF
+48851,2019-05-14,1655,43.10986,-89.05296,Other Non Domesticated,,Dane,2019,Interstate094
+48960,2019-06-27,1549,42.62612,-88.41374,Other Non Domesticated,,Walworth,2019,State Highway120
+48994,2019-05-28,705,45.97755,-89.85651,Other Non Domesticated,,Vilas,2019,State Highway047
+49317,2019-11-20,620,45.23566,-89.70016,Other Non Domesticated,,Lincoln,2019,NORTH STAR RD - Lincoln
+49387,2019-10-17,500,42.87107,-89.51006,Other Non Domesticated,,Dane,2019,County HighwayD
+49605,2019-11-10,1830,44.25826,-91.37427,Other Non Domesticated,,Trempealeau,2019,State Highway095
+49662,2019-12-23,2110,42.85058,-89.33599,Other Non Domesticated,,Dane,2019,US Highway014
+49693,2019-12-19,1801,43.26673,-89.06847,Other Non Domesticated,,Dane,2019,State Highway073
+49973,2019-05-10,1838,43.19712,-88.69088,Other Non Domesticated,,Jefferson,2019,County HighwayCW
+50191,2019-05-02,2140,44.71903,-91.35931,Other Non Domesticated,,Eau Claire,2019,US Highway053
+50258,2019-06-06,445,44.078,-91.28981,Other Non Domesticated,,Trempealeau,2019,State Highway054
+50278,2019-08-01,2138,44.25351,-89.63957,Other Non Domesticated,,Portage,2019,County HighwayD
+50374,2019-08-24,1654,42.7045,-89.01274,Other Non Domesticated,,Rock,2019,BLACK BRIDGE RD - Rock
+50430,2019-09-26,915,42.90823,-89.70342,Other Non Domesticated,,Dane,2019,County HighwayG
+50603,2019-11-15,1718,43.72041,-88.80106,Other Non Domesticated,,Fond du Lac,2019,LINER RD - Fond du Lac
+50885,2019-12-23,510,43.9828,-91.28634,Other Non Domesticated,,La Crosse,2019,US Highway053
+51010,2019-01-04,625,44.54528,-87.7263,Other Non Domesticated,,Kewaunee,2019,State Highway054
+51185,2019-03-22,545,43.00174,-89.709,Other Non Domesticated,,Dane,2019,US Highway018
+51626,2019-10-16,1945,44.98722,-90.13922,Other Non Domesticated,,Marathon,2019,TOWN HALL RD - Marathon
+51787,2019-10-22,622,44.40153,-89.21936,Other Non Domesticated,,Waupaca,2019,US Highway010
+52294,2019-04-30,1938,44.22569,-88.00933,Other Non Domesticated,,Manitowoc,2019,County HighwayK
+52556,2019-06-22,2217,44.9447,-90.67001,Other Non Domesticated,,Clark,2019,State Highway029
+52596,2019-07-06,1646,44.18556,-87.68106,Other Non Domesticated,,Manitowoc,2019,County HighwayQ
+52626,2019-07-10,1305,42.5382,-89.00189,Other Non Domesticated,,Rock,2019,CRISWELL BLVD - Rock
+52663,2019-07-26,2220,42.95067,-89.72384,Other Non Domesticated,,Dane,2019,County HighwayJG
+52697,2019-07-24,1721,42.58152,-88.25873,Other Non Domesticated,,Kenosha,2019,State Highway050
+52787,2019-08-13,2120,45.91237,-91.37385,Other Non Domesticated,,Sawyer,2019,County HighwayE
+52849,2019-10-07,2057,42.72574,-88.2636,Other Non Domesticated,,Racine,2019,County HighwayFF
+53224,2019-10-26,559,44.27958,-90.80629,Other Non Domesticated,,Jackson,2019,Interstate094
+53277,2019-12-26,1834,43.07639,-91.08057,Other Non Domesticated,,Crawford,2019,State Highway027
+53283,2019-10-21,1709,44.43195,-88.10975,Other Non Domesticated,,Brown,2019,Interstate041
+53414,2019-03-17,1446,45.00002,-92.25753,Other Non Domesticated,,St. Croix,2019,County HighwayD
+53434,2019-01-04,2057,46.58608,-91.89429,Other Non Domesticated,,Douglas,2019,US Highway053
+53482,2019-03-22,2340,42.54259,-88.20738,Other Non Domesticated,,Kenosha,2019,County HighwayJI
+53781,2019-07-04,115,43.1886,-89.49787,Other Non Domesticated,,Dane,2019,State Highway019
+53836,2019-05-14,1355,44.63217,-91.98465,Other Non Domesticated,,Pepin,2019,US Highway010
+53900,2019-08-02,311,45.08117,-91.5018,Other Non Domesticated,,Chippewa,2019,County HighwayF
+54070,2019-10-04,2217,43.58718,-88.44827,Other Non Domesticated,,Dodge,2019,State Highway067
+54688,2019-03-02,2028,43.62419,-89.2986,Other Non Domesticated,,Columbia,2019,State Highway022
+54734,2019-04-16,1248,44.74369,-88.79991,Other Non Domesticated,,Shawano,2019,County HighwayM
+54905,2019-06-15,2225,44.24072,-87.9874,Other Non Domesticated,,Manitowoc,2019,MANCAL RD - Manitowoc
+55181,2019-08-28,531,43.04287,-87.97346,Other Non Domesticated,,Milwaukee,2019,State Highway175
+55246,2019-09-23,1921,44.44374,-87.78051,Other Non Domesticated,,Brown,2019,State Highway029
+55431,2019-10-29,211,44.84771,-92.39867,Other Non Domesticated,,Pierce,2019,State Highway029
+55450,2019-10-31,2125,43.99124,-90.84758,Other Non Domesticated,,Monroe,2019,State Highway027
+55989,2019-03-15,1952,42.60421,-88.54976,Other Non Domesticated,,Walworth,2019,State Highway050
+56050,2019-05-04,255,43.54996,-89.67858,Other Non Domesticated,,Sauk,2019,Interstate090
+56374,2019-08-15,638,42.67278,-88.9796,Other Non Domesticated,,Rock,2019,MIDLAND RD - Rock
+57159,2019-03-28,2340,44.8349,-89.25421,Other Non Domesticated,,Marathon,2019,State Highway029
+57313,2019-07-15,607,43.71975,-88.60763,Other Non Domesticated,,Fond du Lac,2019,County HighwayTC
+57411,2019-06-28,2005,43.83315,-91.11096,Other Non Domesticated,,La Crosse,2019,County HighwayOA
+57415,2019-07-06,1454,46.64764,-91.93063,Other Non Domesticated,,Douglas,2019,State Highway013
+58305,2019-04-15,2111,44.58211,-91.02679,Other Non Domesticated,,Jackson,2019,US Highway010
+58416,2019-06-22,2145,42.84352,-88.02738,Other Non Domesticated,,Racine,2019,W SOUTH COUNTY LINE RD (1) - Racine
+58678,2019-08-25,1118,43.03372,-89.29938,Other Non Domesticated,,Dane,2019,US Highway051
+59193,2019-12-04,2008,42.94494,-87.98108,Other Non Domesticated,,Milwaukee,2019,W GRANGE AVE - Milwaukee
+59245,2019-12-20,625,44.18609,-88.06423,Other Non Domesticated,,Calumet,2019,County HighwayPP
+59587,2019-06-12,2345,45.34719,-88.99625,Other Non Domesticated,,Langlade,2019,County HighwayA
+59949,2019-08-31,545,46.60173,-90.96233,Other Non Domesticated,,Bayfield,2019,EAST ONDOSSAGON RD - Bayfield
+59956,2019-08-27,812,46.56543,-91.42273,Other Non Domesticated,,Bayfield,2019,US Highway002
+59999,2019-09-20,2140,43.44,-88.82616,Other Non Domesticated,,Dodge,2019,US Highway151
+60483,2019-11-17,30,43.11132,-89.52113,Other Non Domesticated,,Dane,2019,AIRPORT RD - Dane
+60798,2020-04-20,2258,42.61447,-88.76571,Other Non Domesticated,,Walworth,2020,CREEK RD - Walworth
+60814,2020-04-08,1752,44.37309,-89.77055,Other Non Domesticated,,Wood,2020,County HighwayW
+60941,2020-06-12,543,43.46518,-88.54624,Other Non Domesticated,,Dodge,2020,State Highway067
+61024,2020-07-25,2207,44.404,-87.78545,Other Non Domesticated,,Brown,2020,County HighwayP
+61168,2020-10-23,730,44.63364,-90.37664,Other Non Domesticated,,Clark,2020,DIVISION AVE - Clark
+61223,2020-11-07,133,44.6489,-88.91554,Other Non Domesticated,,Waupaca,2020,County HighwayG
+61259,2020-11-02,524,44.11188,-89.96235,Other Non Domesticated,,Adams,2020,BLACKHAWK AVE - Adams
+61311,2020-11-19,2031,45.89977,-91.95121,Other Non Domesticated,,Washburn,2020,County HighwayE
+61320,2020-11-22,1800,44.82655,-91.20674,Other Non Domesticated,,Eau Claire,2020,County HighwayXX
+61405,2020-11-13,555,43.31931,-88.84317,Other Non Domesticated,,Dodge,2020,County HighwayJ
+61426,2020-11-16,2017,44.95462,-92.71824,Other Non Domesticated,,St. Croix,2020,HANLEY RD - St. Croix
+61527,2020-12-27,2129,43.55768,-87.86421,Other Non Domesticated,,Sheboygan,2020,County HighwayRR
+61549,2020-04-03,554,45.04732,-89.65255,Other Non Domesticated,,Marathon,2020,US Highway051
+61684,2020-01-02,1659,43.0604,-90.5022,Other Non Domesticated,,Grant,2020,County HighwayG
+62149,2020-07-17,851,42.9694,-89.51369,Other Non Domesticated,,Dane,2020,County HighwayPB
+62177,2020-08-09,223,45.61043,-89.54769,Other Non Domesticated,,Oneida,2020,US Highway008
+62253,2020-09-03,2245,43.24957,-88.5179,Other Non Domesticated,,Dodge,2020,State Highway067
+62389,2020-10-18,2331,42.9729,-89.36702,Other Non Domesticated,,Dane,2020,County HighwayB
+62556,2020-12-18,1832,43.93657,-91.24757,Other Non Domesticated,,La Crosse,2020,US Highway053
+62938,2020-04-10,751,43.10818,-88.32144,Other Non Domesticated,,Waukesha,2020,State Highway016
+62966,2020-02-23,2312,43.11084,-88.97138,Other Non Domesticated,,Jefferson,2020,Interstate094
+63303,2020-08-21,1709,44.73091,-88.44596,Other Non Domesticated,,Shawano,2020,EXPRESS WAY - Shawano
+63373,2020-09-26,1135,43.29911,-88.23545,Other Non Domesticated,,Washington,2020,FOND DU LAC DR - Washington
+63786,2020-04-18,604,44.45588,-91.76997,Other Non Domesticated,,Buffalo,2020,State Highway037
+64213,2020-06-06,1038,44.18712,-88.73919,Other Non Domesticated,,Winnebago,2020,County HighwayMM
+64240,2020-06-16,1747,42.71213,-87.84521,Other Non Domesticated,,Racine,2020,16TH ST - Racine
+64320,2020-07-22,2135,42.98683,-89.56527,Other Non Domesticated,,Dane,2020,US Highway018
+64415,2020-10-24,821,44.48722,-88.2847,Other Non Domesticated,,Outagamie,2020,CULBERTSON RD - Outagamie
+64713,2020-12-10,455,42.74004,-90.39141,Other Non Domesticated,,Lafayette,2020,US Highway151
+64835,2020-12-17,2140,44.67537,-88.44378,Other Non Domesticated,,Shawano,2020,State Highway047
+64945,2020-02-16,1945,43.01038,-90.36025,Other Non Domesticated,,Iowa,2020,HARMS RD - Iowa
+65084,2020-05-16,1930,43.84764,-87.97443,Other Non Domesticated,,Sheboygan,2020,County HighwayFF
+65370,2020-07-18,1810,43.34654,-90.09984,Other Non Domesticated,,Sauk,2020,County HighwayGG
+65520,2020-10-30,1933,44.50456,-88.19033,Other Non Domesticated,,Brown,2020,County HighwayU
+65682,2020-11-26,2100,44.81451,-91.61046,Other Non Domesticated,,Eau Claire,2020,County HighwayE
+66060,2020-01-05,1618,45.63122,-87.99287,Other Non Domesticated,,Marinette,2020,US Highway008
+66300,2020-05-22,1715,42.7286,-89.85819,Other Non Domesticated,,Lafayette,2020,State Highway078
+66303,2020-06-03,2135,42.85905,-88.31037,Other Non Domesticated,,Waukesha,2020,Interstate043
+66504,2020-08-23,800,44.32062,-88.95118,Other Non Domesticated,,Waupaca,2020,US Highway010
+67196,2020-02-28,1700,42.75513,-87.79925,Other Non Domesticated,,Racine,2020,State Highway032
+67432,2020-07-25,529,42.49657,-89.07108,Other Non Domesticated,,Rock,2020,FREDERICK ST - Rock
+67448,2020-07-16,1630,44.82279,-89.14282,Other Non Domesticated,,Shawano,2020,US Highway045
+67455,2020-07-12,2247,44.74776,-91.39637,Other Non Domesticated,,Eau Claire,2020,US Highway053
+67495,2020-06-27,721,42.5757,-89.37124,Other Non Domesticated,,Green,2020,State Highway081
+67897,2020-10-27,840,44.40616,-91.44317,Other Non Domesticated,,Trempealeau,2020,State Highway121
+68033,2020-11-27,1730,44.45742,-88.2912,Other Non Domesticated,,Outagamie,2020,State Highway055
+68360,2020-01-31,33,42.78653,-89.62799,Other Non Domesticated,,Green,2020,State Highway069
+68444,2020-05-10,1128,44.2337,-88.41242,Other Non Domesticated,,Winnebago,2020,US Highway010
+68618,2020-08-21,453,44.74792,-91.38258,Other Non Domesticated,,Eau Claire,2020,Interstate094
+68621,2020-08-24,2214,44.15352,-87.69724,Other Non Domesticated,,Manitowoc,2020,State Highway310
+68864,2020-11-15,1530,42.91461,-89.4588,Other Non Domesticated,,Dane,2020,County HighwayD
+69214,2020-04-03,923,43.26018,-89.38253,Other Non Domesticated,,Dane,2020,County HighwayI
+69242,2020-01-30,1900,44.24401,-90.7326,Other Non Domesticated,,Jackson,2020,REST AREA #54 - Jackson
+69568,2020-08-17,2235,42.64292,-88.66487,Other Non Domesticated,,Walworth,2020,County HighwayM
+69753,2020-09-12,2050,44.02358,-91.0646,Other Non Domesticated,,La Crosse,2020,County HighwayT
+70011,2020-12-08,1645,43.76228,-90.07918,Other Non Domesticated,,Juneau,2020,State Highway058
+70021,2020-04-19,755,44.4341,-92.02518,Other Non Domesticated,,Buffalo,2020,State Highway035
+70197,2020-11-06,1814,44.14078,-90.54277,Other Non Domesticated,,Monroe,2020,Interstate094
+70462,2020-06-07,1528,44.03025,-88.57669,Other Non Domesticated,,Winnebago,2020,SAWTELL CT - Winnebago
+70619,2020-06-28,2135,44.87041,-89.18509,Other Non Domesticated,,Shawano,2020,US Highway045
+70620,2020-07-26,140,42.65881,-88.53655,Other Non Domesticated,,Walworth,2020,Interstate043
+70890,2020-10-06,745,45.71199,-90.42215,Other Non Domesticated,,Price,2020,State Highway013
+71000,2020-10-23,614,44.26575,-88.8018,Other Non Domesticated,,Waupaca,2020,State Highway096
+71344,2020-02-12,1605,43.22506,-87.9213,Other Non Domesticated,,Ozaukee,2020,Interstate043
+71405,2020-04-21,2331,44.41175,-87.74516,Other Non Domesticated,,Kewaunee,2020,County HighwayV
+71723,2020-08-14,1844,45.72449,-89.72133,Other Non Domesticated,,Oneida,2020,US Highway051
+71974,2020-10-03,2200,44.93369,-92.23288,Other Non Domesticated,,St. Croix,2020,Interstate094
+72172,2020-06-28,412,44.29799,-88.45798,Other Non Domesticated,,Outagamie,2020,Interstate041
+72227,2020-11-21,1400,43.29076,-90.32132,Other Non Domesticated,,Richland,2020,US Highway014
+72421,2020-02-20,1751,44.77273,-87.47887,Other Non Domesticated,,Door,2020,State Highway042
+72558,2020-04-18,1725,43.38744,-87.93672,Other Non Domesticated,,Ozaukee,2020,County HighwayW
+72633,2020-05-01,930,43.75064,-87.83482,Other Non Domesticated,,Sheboygan,2020,State Highway023
+72812,2020-09-17,1845,44.05509,-89.19753,Other Non Domesticated,,Waushara,2020,State Highway021
+73233,2020-08-12,2123,45.658,-88.47866,Other Non Domesticated,,Forest,2020,US Highway008
+73242,2020-05-16,2110,43.2579,-88.18154,Other Non Domesticated,,Washington,2020,Interstate041
+73978,2020-09-28,1725,45.23342,-89.67286,Other Non Domesticated,,Lincoln,2020,US Highway051
+73982,2020-10-06,745,45.71204,-90.42211,Other Non Domesticated,,Price,2020,State Highway013
+75279,2020-11-25,2223,43.33043,-88.39547,Other Non Domesticated,,Washington,2020,W STATE ST - Washington
+75299,2020-03-19,1016,44.55625,-88.05953,Other Non Domesticated,,Brown,2020,Interstate041
+75471,2020-11-20,450,44.28669,-90.8121,Other Non Domesticated,,Jackson,2020,Interstate094
+75660,2020-02-06,1900,44.67886,-88.3111,Other Non Domesticated,,Shawano,2020,State Highway029
+75799,2020-06-22,1710,43.45111,-88.62209,Other Non Domesticated,,Dodge,2020,State Highway033
+76181,2020-09-16,1019,43.18833,-89.5567,Other Non Domesticated,,Dane,2020,US Highway012
+76386,2020-12-04,2159,43.16554,-91.00134,Other Non Domesticated,,Crawford,2020,SHANGHAI RIDGE RD - Crawford
+76391,2020-10-30,500,44.24434,-88.4669,Other Non Domesticated,,Outagamie,2020,Interstate041
+76736,2020-02-29,1839,42.55068,-88.34304,Other Non Domesticated,,Walworth,2020,US Highway012
+76875,2020-06-14,445,43.22534,-87.92126,Other Non Domesticated,,Ozaukee,2020,Interstate043
+76895,2020-06-18,2355,44.38772,-88.47054,Other Non Domesticated,,Outagamie,2020,County HighwayS
+76955,2020-05-17,919,42.82188,-87.83739,Other Non Domesticated,,Racine,2020,State Highway032
+77350,2020-12-14,2038,43.43793,-88.20128,Other Non Domesticated,,Washington,2020,18TH AVE - Washington
+77589,2020-11-23,851,44.42907,-87.53912,Other Non Domesticated,,Kewaunee,2020,State Highway042
+77617,2020-11-12,503,44.67581,-91.09917,Other Non Domesticated,,Eau Claire,2020,US Highway012
+77676,2020-11-08,1419,45.88066,-88.12587,Other Non Domesticated,,Florence,2020,US Highway002
+78156,2021-09-25,313,42.69755,-88.49604,Other Non Domesticated,,Walworth,2021,Interstate043
+78756,2021-02-20,1806,44.6356,-91.27681,Other Non Domesticated,,Eau Claire,2021,County HighwayK
+78925,2021-06-28,1815,43.9425,-90.7302,Other Non Domesticated,,Monroe,2021,State Highway016
+78955,2021-07-14,638,46.61709,-92.20298,Other Non Domesticated,,Douglas,2021,County HighwayW
+79227,2021-08-29,2250,42.66734,-90.39773,Other Non Domesticated,,Lafayette,2021,State Highway081
+79463,2021-12-02,826,43.16475,-88.18337,Other Non Domesticated,,Waukesha,2021,County HighwayV
+79503,2021-11-12,2105,44.05861,-90.86199,Other Non Domesticated,,Monroe,2021,State Highway027
+79885,2021-04-01,2123,43.76166,-87.83907,Other Non Domesticated,,Sheboygan,2021,County HighwayO
+79991,2021-07-06,1435,43.97016,-91.29525,Other Non Domesticated,,La Crosse,2021,County HighwayMH
+80104,2021-07-11,1425,45.11128,-89.01273,Other Non Domesticated,,Langlade,2021,County HighwayS
+80195,2021-09-27,2208,42.94674,-90.64483,Other Non Domesticated,,Grant,2021,US Highway061
+80236,2021-07-13,1100,42.99565,-87.9708,Other Non Domesticated,,Milwaukee,2021,W CLEVELAND AVE - Milwaukee
+80369,2021-05-01,210,42.65642,-88.54025,Other Non Domesticated,,Walworth,2021,Interstate043
+80469,2021-10-02,2055,42.69141,-88.44299,Other Non Domesticated,,Walworth,2021,State Highway011
+80792,2021-09-26,9999,43.85266,-87.77098,Other Non Domesticated,,Sheboygan,2021,Interstate043
+80921,2021-04-13,2233,43.49456,-89.26279,Other Non Domesticated,,Columbia,2021,County HighwayG
+81075,2021-07-19,2200,43.63322,-88.70146,Other Non Domesticated,,Dodge,2021,State Highway049
+81102,2021-07-08,7,45.19112,-90.90514,Other Non Domesticated,,Taylor,2021,County HighwayH
+81127,2021-06-15,2337,43.41302,-88.54204,Other Non Domesticated,,Dodge,2021,State Highway067
+81219,2021-08-08,2355,43.16126,-88.75876,Other Non Domesticated,,Jefferson,2021,State Highway026
+81258,2021-08-16,2124,46.40633,-90.90781,Other Non Domesticated,,Ashland,2021,WILDCAT RD - Ashland
+81323,2021-09-13,1734,42.5317,-88.5018,Other Non Domesticated,,Walworth,2021,MAPLE RIDGE RD - Walworth
+81416,2021-10-30,400,43.11769,-90.2114,Other Non Domesticated,,Iowa,2021,County HighwayI
+81580,2021-11-10,1747,46.15253,-90.8669,Other Non Domesticated,,Ashland,2021,State Highway077
+81714,2021-11-14,350,43.56103,-90.40354,Other Non Domesticated,,Vernon,2021,KOLASH RD - Vernon
+81786,2021-06-26,1310,43.08594,-88.79068,Other Non Domesticated,,Jefferson,2021,Interstate094
+81963,2021-03-01,2000,42.58501,-88.15879,Other Non Domesticated,,Kenosha,2021,County HighwayB
+82009,2021-05-25,1835,43.06038,-89.6156,Other Non Domesticated,,Dane,2021,County HighwayS
+82542,2021-10-09,2257,43.38721,-89.32784,Other Non Domesticated,,Columbia,2021,State Highway022
+83287,2021-08-21,2242,44.72183,-89.78746,Other Non Domesticated,,Marathon,2021,County HighwayO
+83576,2021-10-02,2131,42.6947,-90.66777,Other Non Domesticated,,Grant,2021,County HighwayO
+83622,2021-11-09,1657,43.68934,-88.3862,Other Non Domesticated,,Fond du Lac,2021,County HighwayB
+83869,2021-08-11,1830,44.94189,-92.50512,Other Non Domesticated,,St. Croix,2021,Interstate094
+84022,2021-01-05,525,44.88794,-88.62192,Other Non Domesticated,,Menominee,2021,County HighwayVV
+84670,2021-10-18,101,42.51668,-88.45563,Other Non Domesticated,,Walworth,2021,County HighwayB
+84803,2021-07-15,1655,44.34856,-90.93307,Other Non Domesticated,,Jackson,2021,Interstate094
+84892,2021-11-08,1857,42.78649,-88.07116,Other Non Domesticated,,Racine,2021,US Highway045
+85154,2021-03-18,1102,44.60531,-88.10158,Other Non Domesticated,,Brown,2021,WHITE PINE RD - Brown
+85250,2021-06-05,1633,44.70652,-89.92618,Other Non Domesticated,,Marathon,2021,SMOKEY HILL RD - Marathon
+85378,2021-07-01,50,43.73323,-90.71181,Other Non Domesticated,,Monroe,2021,State Highway033
+85472,2021-07-14,1500,43.13503,-87.99682,Other Non Domesticated,,Milwaukee,2021,W BRENTWOOD AVE - Milwaukee
+85484,2021-03-13,2148,43.3178,-89.32535,Other Non Domesticated,,Columbia,2021,US Highway051
+85783,2021-11-18,1825,44.68508,-91.81284,Other Non Domesticated,,Dunn,2021,State Highway085
+86020,2021-11-17,2231,44.44434,-89.00466,Other Non Domesticated,,Waupaca,2021,County HighwayK
+86223,2021-03-19,1909,44.28633,-88.42604,Other Non Domesticated,,Outagamie,2021,W WEILAND LN - Outagamie
+86289,2021-04-29,443,43.30089,-89.85047,Other Non Domesticated,,Sauk,2021,County HighwayPF
+86330,2021-05-13,2129,44.26221,-88.49605,Other Non Domesticated,,Outagamie,2021,County HighwayCA
+86493,2021-04-29,1525,43.05924,-88.25132,Other Non Domesticated,,Waukesha,2021,State Highway016
+86529,2021-08-18,540,44.21161,-90.51898,Other Non Domesticated,,Jackson,2021,County HighwayO
+87104,2021-12-30,1735,42.58849,-89.47271,Other Non Domesticated,,Green,2021,State Highway011
+87127,2021-12-20,1720,43.74026,-90.74587,Other Non Domesticated,,Monroe,2021,State Highway033
+87274,2021-01-22,838,43.0411,-88.30372,Other Non Domesticated,,Waukesha,2021,NORTHVIEW RD - Waukesha
+87394,2021-05-23,106,42.73764,-90.19537,Other Non Domesticated,,Lafayette,2021,County HighwayG
+87504,2021-06-14,115,44.60021,-88.24419,Other Non Domesticated,,Brown,2021,State Highway029
+87636,2021-02-18,2005,46.54383,-90.85426,Other Non Domesticated,,Ashland,2021,State Highway013
+88237,2021-06-15,1230,43.10978,-89.05539,Other Non Domesticated,,Dane,2021,Interstate094
+88403,2021-05-17,53,42.53026,-88.32476,Other Non Domesticated,,Walworth,2021,County HighwayU
+88511,2021-06-06,2200,43.00801,-89.30531,Other Non Domesticated,,Dane,2021,US Highway051
+88567,2021-01-17,1503,44.29671,-88.52884,Other Non Domesticated,,Outagamie,2021,State Highway015
+88839,2021-10-19,1218,43.43344,-88.14112,Other Non Domesticated,,Washington,2021,TRENTON RD - Washington
+89013,2021-11-24,240,42.92295,-90.66632,Other Non Domesticated,,Grant,2021,US Highway061
+89172,2021-11-13,6,44.87053,-89.29415,Other Non Domesticated,,Marathon,2021,State Highway029
+89378,2021-04-15,2035,42.97373,-88.0199,Other Non Domesticated,,Milwaukee,2021,W HOWARD AVE - Milwaukee
+89459,2021-05-21,1800,43.77067,-90.00255,Other Non Domesticated,,Juneau,2021,Interstate090
+89698,2021-09-18,100,42.63687,-90.5148,Other Non Domesticated,,Grant,2021,CLAY HOLLOW RD - Grant
+89753,2021-09-22,615,43.36804,-87.90116,Other Non Domesticated,,Ozaukee,2021,State Highway032
+89761,2021-03-08,2230,43.62683,-87.82982,Other Non Domesticated,,Sheboygan,2021,State Highway032
+89780,2021-09-22,549,42.94064,-87.98846,Other Non Domesticated,,Milwaukee,2021,State Highway036
+90107,2021-12-03,23,42.6353,-89.02999,Other Non Domesticated,,Rock,2021,State Highway011
+90243,2021-12-24,6,44.8485,-89.02688,Other Non Domesticated,,Shawano,2021,RIVER RD - Shawano
+90278,2021-12-19,1900,43.07281,-88.861,Other Non Domesticated,,Jefferson,2021,County HighwayB
+90462,2021-05-07,34,44.77356,-91.32562,Other Non Domesticated,,Eau Claire,2021,US Highway012
+90785,2021-09-25,1435,46.21733,-91.79856,Other Non Domesticated,,Douglas,2021,US Highway053
+90945,2021-10-09,1525,45.21096,-89.62226,Other Non Domesticated,,Lincoln,2021,State Highway017
+91029,2021-11-22,723,44.40242,-88.91079,Other Non Domesticated,,Waupaca,2021,State Highway054
+91345,2021-12-18,1826,44.56525,-88.14246,Other Non Domesticated,,Brown,2021,State Highway029
+91393,2021-01-03,324,42.71119,-90.40606,Other Non Domesticated,,Lafayette,2021,COLLEGE FARM RD - Lafayette
+91603,2021-07-03,1648,44.96144,-87.86189,Other Non Domesticated,,Oconto,2021,WOODVIEW RD - Oconto
+91613,2021-07-15,914,42.61416,-89.20641,Other Non Domesticated,,Rock,2021,STUART RD - Rock
+91756,2021-09-17,1330,44.88275,-90.94262,Other Non Domesticated,,Chippewa,2021,County HighwayH
+91762,2021-09-10,2047,45.14676,-91.04947,Other Non Domesticated,,Chippewa,2021,County HighwayD
+92211,2021-10-22,1930,43.22406,-89.25027,Other Non Domesticated,,Dane,2021,HAPPY VALLEY RD - Dane
+92362,2021-12-31,235,44.45336,-90.30804,Other Non Domesticated,,Wood,2021,State Highway073
+92623,2021-03-30,2315,46.43181,-90.81998,Other Non Domesticated,,Ashland,2021,State Highway013
+92634,2021-02-25,1914,43.64882,-89.60386,Other Non Domesticated,,Adams,2021,State Highway023
+92716,2021-07-11,56,43.73284,-88.55834,Other Non Domesticated,,Fond du Lac,2021,County HighwayY
+92743,2021-08-15,800,43.0195,-87.93948,Other Non Domesticated,,Milwaukee,2021,S 21ST ST - Milwaukee
+92768,2021-08-03,1430,44.74048,-90.65913,Other Non Domesticated,,Clark,2021,County HighwayO
+92867,2021-03-28,235,43.09588,-89.54846,Other Non Domesticated,,Dane,2021,US Highway014
+92943,2021-10-17,1625,44.08218,-88.56088,Other Non Domesticated,,Winnebago,2021,Interstate041
+93083,2021-10-11,2230,44.48034,-90.2798,Other Non Domesticated,,Wood,2021,County HighwayV
+93097,2021-12-05,1854,44.79665,-88.48924,Other Non Domesticated,,Shawano,2021,State Highway022
+93144,2021-07-15,1215,43.83859,-87.77131,Other Non Domesticated,,Sheboygan,2021,Interstate043
+93172,2021-12-03,1848,44.47159,-87.78562,Other Non Domesticated,,Brown,2021,County HighwayP
+93419,2021-12-16,342,43.58162,-88.75373,Other Non Domesticated,,Dodge,2021,County HighwayM
+93587,2021-04-29,520,45.12129,-90.31839,Other Non Domesticated,,Taylor,2021,County HighwayO
+93993,2021-10-01,2215,42.50696,-88.74812,Other Non Domesticated,,Walworth,2021,State Highway067
+94004,2021-10-08,1258,44.78711,-89.49188,Other Non Domesticated,,Marathon,2021,State Highway153
+94007,2021-07-17,1814,44.42292,-89.90803,Other Non Domesticated,,Wood,2021,State Highway073
+94450,2021-12-25,1946,42.72508,-87.85562,Other Non Domesticated,,Racine,2021,EMMERTSEN RD - Racine
